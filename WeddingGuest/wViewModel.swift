@@ -13,7 +13,7 @@ public class wViewModel{
     var msg = ""
     var guestInfo = [guestInformation]()
     var guestCheckIn = guestCheckInData()
-    var sheetDBUrl = "https://sheetdb.io/api/v1/1si2oq3vbeqwv"
+    var sheetDBUrl = "https://sheetdb.io/api/v1/Enter your API"
   
     //賓客種類
     enum guestKind:String{
